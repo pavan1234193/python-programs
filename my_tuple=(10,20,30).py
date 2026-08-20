@@ -1,0 +1,7 @@
+index=my_tuple.index(2)
+print(index)
+#my_tuple=(1,2,3,2)
+#count=my_tuple.count(3)
+#print(count)
+#my_tuple=(10,20,30)
+#print(my_tuple[2])
